@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 import random
 possible = ['h', 't'] # heads & tails
 
